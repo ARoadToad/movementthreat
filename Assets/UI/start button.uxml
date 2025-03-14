@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-grow: 3; margin-left: 30%; margin-right: 30%; margin-top: 10%; margin-bottom: 10%; align-items: stretch; justify-content: center;">
+        <ui:Label text="Movement Threat" display-tooltip-when-elided="true" style="-unity-text-align: upper-center; font-size: 30px; padding-right: 0; margin-bottom: 10%;" />
+        <ui:Button text="&quot;It&apos;s gaming time&quot;" display-tooltip-when-elided="true" name="TheButton" style="flex-grow: 0.3; background-color: rgba(173, 173, 173, 255); color: rgba(0, 0, 0, 255);" />
+    </ui:VisualElement>
+</ui:UXML>

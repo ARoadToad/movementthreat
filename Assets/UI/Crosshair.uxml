@@ -1,0 +1,5 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="align-items: center; justify-content: center; height: auto; max-height: none; width: auto; flex-grow: 1;">
+        <ui:VisualElement style="background-image: url(&apos;project://database/Assets/UI/Images/crosshair.png?fileID=2800000&amp;guid=9cdeb5db08a6aa745b0eda5dd5cea971&amp;type=3#crosshair&apos;); height: 63px; width: 63px;" />
+    </ui:VisualElement>
+</ui:UXML>
